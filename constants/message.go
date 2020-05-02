@@ -1,5 +1,5 @@
-// Package message contains custom messages to be used in the program
-package message
+// Package constants contains custom messages to be used in the program
+package constants
 
 // All the constant starting with capital letter are exported constants
 // constant block contains list of error messages
